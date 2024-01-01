@@ -7,4 +7,9 @@ Speedifyweb details of service
 - Graph1: 
 - Graph2:
 
-- 
+Maybe some other options in the future would include:
+
+- feature 1
+- feature 2..
+- etc..
+
